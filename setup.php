@@ -110,6 +110,6 @@ $deprecated_functions = array
 	'mysql_tablename' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_thread_id' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_unbuffered_query' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
-	'mcrypt_generic_end()' => 'mcrypt_generic_end() is deprecated in php 5.4.x!',
+	'mcrypt_generic_end' => 'mcrypt_generic_end() is deprecated in php 5.4.x!',
 			
 );
