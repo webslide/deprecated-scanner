@@ -9,7 +9,7 @@ PHP  DEPRECATED  FUNCTION  SCANNER
                                     
                                     
                                     
-This is a php based PHP 5.3 deprecated funcions scanner script.
+This is a php based PHP 5.3 & 5.4 deprecated funcions scanner script.
 Easy to use, and fast.
 
 

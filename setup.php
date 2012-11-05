@@ -93,7 +93,7 @@ $deprecated_functions = array
 	'mysql_get_server_info' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_info' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_insert_id' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
-	'mysql_list_dbs' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
+	'mysql_list_dbs' => 'Mysql_* is deprecated! This function is deprecated in php 5.4! Please use PDO or MySQLi',
 	'mysql_list_fields' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_list_processes' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_list_tables' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
@@ -109,5 +109,7 @@ $deprecated_functions = array
 	'mysql_stat' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_tablename' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
 	'mysql_thread_id' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
-	'mysql_unbuffered_query' => 'Mysql_* is deprecated! Please use PDO or MySQLi',		
+	'mysql_unbuffered_query' => 'Mysql_* is deprecated! Please use PDO or MySQLi',
+	'mcrypt_generic_end()' => 'mcrypt_generic_end() is deprecated in php 5.4.x!',
+			
 );
