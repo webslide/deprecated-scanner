@@ -1,0 +1,69 @@
+/*********************************
+ * @Author  WebSlide Studio
+ * @Site    http://www.webslide.hu 
+ * @Date    2012-11-05
+ * @Version 0.1a
+ *  
+ * Open source project
+ ********************************/
+
+body
+{
+	font-family: tahoma;
+	font-size: 12px;   
+}
+
+#progressbar_corner
+{
+	width: 500px; 
+	margin-bottom: 50px; 
+	display: block; 
+	height: 30px; 
+	border: 1px solid #000;
+}
+
+#progressbar
+{
+	width: 0px;
+	display: block;
+	height: 30px;
+	background-color: #009900;
+}
+
+#error
+{
+	color: #990000;
+}
+
+.item
+{
+	background-color: #999; 
+	font-weight: bold; 
+	padding: 10px; 
+	font-size: 15px; 
+	cursor: pointer;
+}
+
+.infos
+{
+	background-color: #CCC;
+	margin-top: 3px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.errorInfo
+{
+	color: #990000;
+	cursor: pointer;
+}
+
+pre
+{
+	border-bottom: 1px solid #999; 
+	margin-bottom: 10px; 
+	padding-bottom: 10px;
+}
+
+
+
