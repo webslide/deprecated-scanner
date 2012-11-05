@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<title>PHP 5.3 and 5.4 deprecated function scanner</title>
 		<meta http-equiv='Content-Type' content='Type=text/html; charset=utf-8'>
 		<script src="js/jquery.js"></script>
 		<?php
@@ -21,7 +22,7 @@
 		<link rel='stylesheet' type='text/css' href='css/style.css'>		
 	</head>
 	<body>
-		<h1>PHP 5.3 Deprecated Scanner</h1>
+		<h1>PHP 5.3 & 5.4 Deprecated Scanner</h1>
 		<div id="ellenorzes">
 			Checked: <span id="ittjar"></span>/<span id="ennyibol"></span> file
 		</div>
