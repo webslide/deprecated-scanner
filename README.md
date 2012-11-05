@@ -1,7 +1,7 @@
-Author  WebSlide Studio
-Site    http://www.webslide.hu
-Date    2012-11-05
-Version 0.1a
+Author: WebSlide Studio
+Site: http://www.webslide.hu
+Date: 2012-11-05
+Version: 0.1a
 
 Open source project
 
@@ -14,7 +14,6 @@ Easy to use, and fast.
 
 
 How to use:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Copy the files to a subfolder on your site, then set the folder you would like to scan 
 in the settings.php. Now all you have to do  to check the problems is to open this 
 file in your browser.
@@ -23,8 +22,7 @@ file in your browser.
 
 
 
-v0.1
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+v0.1:
 - Initial version.
 - Find deprecated functions.
 - You can hide source codes and error messages.
